@@ -29,3 +29,5 @@ class MySinglyLinkedList{
     this.length = 1;
   }
 }
+
+let myLinkedList = new MySinglyLinkedList(1);
